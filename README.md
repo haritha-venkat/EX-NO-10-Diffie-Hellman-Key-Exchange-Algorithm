@@ -1,5 +1,4 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-# DATE:10-10-2024
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
